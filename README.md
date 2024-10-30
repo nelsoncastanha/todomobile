@@ -1,9 +1,9 @@
 A simple Todo List using React Native and Expo. 
 
 Main functionality:
--> Add Task
--> Delete task
--> When you complete a task, it gets added to the completed tasks in the bottom of the page
+→ Add Task
+→ Delete Task
+→ When you complete a task, it gets added to the completed tasks in the bottom of the page
 
 
 To be done later(just styling stuff)
